@@ -19,5 +19,16 @@ python 3dpicture.py
 
 ```
 
-# Sample image
+
+## Sample image
 ![Test Image 3](Pseudo3DEffect.png)
+
+# Capture 3D image statistic from matplotlib graph
+
+```
+python  2dmagic3d.py
+
+```
+
+## Sample image
+![Test Image 3](matplotlib.png)
