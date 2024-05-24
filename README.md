@@ -20,4 +20,4 @@ python 3dpicture.py
 ```
 
 # Sample image
-![Test Image 3](Pseudo 3D Effect.png)
+![Test Image 3](Pseudo3DEffect.png)
